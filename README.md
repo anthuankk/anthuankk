@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Anthuan Mendez👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Aprendiz+de+Software+💻;Amante+de+Programaci%C3%B3n+📘;Amante+del+C%C3%B3digo+y+el+Caf%C3%A9+☕;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Aprendiz+de+Software+💻;Amante+de+Programaci%C3%B3n+📘;;Siempre+aprendiendo+algo+nuevo🤓+" alt="Typing SVG" />
 </p>
 
 <p align="center">💡 <em>"Codeo luego existo: cada línea es una clase, cada bug una lección."</em></p>
