@@ -5,7 +5,7 @@
 
 </p>
 
-<p align="center">💡 <em>"Codeo luego existo: cada línea es una clase, cada bug una lección."</em></p>
+<p align="center">💡 <em>"¿Por qué caemos? Para aprender a levantarnos."</em></p>
 
 ---
 
@@ -20,13 +20,15 @@
 
 ### 🛠️ Tech Stack
 
+
 #### Lenguajes  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PSint](https://img.shields.io/badge/PSint-005f73?style=flat&logoColor=white)
+
 
 #### Herramientas  
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 
